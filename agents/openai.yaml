@@ -1,0 +1,7 @@
+interface:
+  display_name: "课程知识点重构"
+  short_description: "只重构课程的知识点梳理阶段，并保护既有学习规划"
+  default_prompt: "Use $course-knowledge-reconstruction to rebuild only the knowledge-note stage from the specified course materials while preserving the existing course-learning plan and outputs."
+
+policy:
+  allow_implicit_invocation: false
